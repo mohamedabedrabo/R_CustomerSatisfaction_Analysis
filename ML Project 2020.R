@@ -1,4 +1,4 @@
-# ML- Project of 2020 course (customer satisfaction) :
+# ML- Project of 2020 (customer satisfaction) :
 # install.packages("lubridate") 
 # install.packages("dplyr") 
 # install.packages("tm") 

@@ -1,4 +1,5 @@
-#Maschine learning project on text file:
+#Machine learning project on text file:
+#Dataframe that contains reports, and we need to classify if they are from 'Union website' ot not.
 
 #before anything i will run all the libraries that i might need:
 library(ggplot2)
